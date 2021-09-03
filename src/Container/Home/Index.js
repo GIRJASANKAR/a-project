@@ -1,5 +1,5 @@
 import React, { useState } from 'react';
-import { Header, List } from '../Index';
+import { Header} from '../Index';
 import NoImage from '../../Assets/Images/no-image.png';
 const Index = () => {
   const [dimensions, setDimensions] = useState({
